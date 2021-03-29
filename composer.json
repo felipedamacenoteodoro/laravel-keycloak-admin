@@ -1,5 +1,5 @@
 {
-    "name": "haizad/laravel-keycloak-admin",
+    "name": "felipe.devops/laravel-keycloak-admin",
     "description": "Keycloak Admin Rest API for Laravel/Lumen",
     "require": {
         "guzzlehttp/guzzle": "^6.0"
@@ -16,6 +16,12 @@
             "name": "Haizad",
             "email": "haizadannuar@gmail.com",
             "homepage": "https://github.com/haizad",
+            "role": "contributing developer"
+        },
+        {
+            "name": "Felipe",
+            "email": "felipe.devops@gmail.com",
+            "homepage": "https://github.com/felipedamacenoteodoro",
             "role": "contributing developer"
         }
     ],
